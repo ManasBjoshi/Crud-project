@@ -1,0 +1,3 @@
+In view we have Bussiness Logic 
+means how much data should be stored and how much data should be given in database
+also we have to run an fuction in views.py which will give us html template
